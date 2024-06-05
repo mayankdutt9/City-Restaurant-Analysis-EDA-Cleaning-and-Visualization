@@ -1,2 +1,5 @@
 # City-Restaurant-Analysis-EDA-Cleaning-and-Visualization
 The object of the project is to do cleaning, Exploratory Data Analysis (EDA) and visualization on a city restaurant dataset.
+The basic idea of analyzing the restaurant dataset is to get a fair idea about the factors affecting the establishment of different types of restaurant at different places in a city, aggregate rating of each restaurant, the city has more than 12,000 restaurants with restaurants serving dishes from all over the world.
+With each day new restaurants opening the industry hasn't been saturated yet and the demand is increasing day by day. Inspite of increasing demand it however has become difficult for new restaurants to compete with established restaurants. Most of them serving the same food. 
+Most of the people here are dependent mainly on the restaurant food as they don’t have time to cook for themselves. With such an overwhelming demand of restaurants it has therefore become important to study the data to find useful insights for planning and making useful decisions. 
